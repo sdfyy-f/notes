@@ -1,4 +1,4 @@
-## 在pycharm中使用anaconda时，有一些库不可以直接安装，以及会安装的做笔记
+## 在pycharm中使用anaconda时，有一些库不可以直接安装，将已经学会安装的库，做笔记，以备使用
 
 #### jieba分词
 - 官网https://pypi.org/project/jieba/0.39/#files下载。
